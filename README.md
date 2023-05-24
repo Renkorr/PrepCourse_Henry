@@ -1,2 +1,2 @@
-# PrepCourse_Henry
-Este es un repositorio de prueba con Readme
+Vlad Boyselle
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
